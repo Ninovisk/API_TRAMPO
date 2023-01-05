@@ -1,5 +1,5 @@
 {
-   
+   "relatorios":[
          {
              "id":0,
              "titulo":"Indice de relatórios do grupo1",
@@ -15,5 +15,5 @@
              "titulo":"Aposentadoria - Servidora - Sem alterações",
              "codigo": " # Aposentadoria - Servidora - Sem alterações\n\n------------------\n\n Olá !!Usuário!!."
          }
-  
+  ]
 }
