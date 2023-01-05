@@ -3,7 +3,7 @@
                   {
                       "id":0,
                       "titulo":"Indice de relatórios do grupo1",
-                      "codigo": "# Aposentadorias\n\n[Aposentadoria - Servidor - Sem alterações](http://localhost:3000/relatorio/501)\n\n[Aposentadoria - Servidora - Sem alterações](http://localhost:3000/relatorio/502) "
+                      "codigo": "# Aposentadorias\n\n[Aposentadoria - Servidor - Sem alterações](http://localhost:3000/relatorio/1)\n\n[Aposentadoria - Servidora - Sem alterações](http://localhost:3000/relatorio/2) "
                   },
                   {
                       "id":1,
